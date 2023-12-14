@@ -1,4 +1,4 @@
-<img src="https://github.com/fboldewin/YARA_Detection_Engineering/blob/main/graphics/Title.PNG" height="300" width="300">
+<img src="https://github.com/fboldewin/YARA_Detection_Engineering/blob/main/Title.PNG" height="300" width="300">
 
 # Detection Engineering with YARA
 
